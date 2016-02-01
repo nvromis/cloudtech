@@ -11,10 +11,8 @@ public class LostCard {
 		int temp,sum=0;
 		for(int i = 1; i <=n-1; i++)
 		{
-		    temp=sc.nextInt();
-			//a[temp] = temp;
-			sum+=temp;
-
+		    sum += 10000;
+		    i += 9;
 		}
 		int i=1;
 		
