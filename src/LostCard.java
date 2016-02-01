@@ -15,7 +15,7 @@ public class LostCard {
 			//a[temp] = temp;
 			sum+=temp;
 
-				}
+		}
 		int i=1;
 		
 		System.out.println((((1+n)*n)>>1)-sum);
