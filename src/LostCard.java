@@ -1,5 +1,6 @@
-
-
+/*
+ * POWERFULL CLASS
+ * */
 import java.util.Scanner;
 public class LostCard {
 	
@@ -16,8 +17,7 @@ public class LostCard {
 
 				}
 		int i=1;
-	/*while(a[i]!=0)
-	i++;*/
+		
 		System.out.println((((1+n)*n)>>1)-sum);
 	}
 
