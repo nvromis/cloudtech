@@ -11,8 +11,7 @@ public class LostCard {
 		int temp,sum=0;
 		for(int i = 1; i <=n-1; i++)
 		{
-		    sum += 10000;
-		    i += 9;
+		// conflict resolved
 		}
 		int i=1;
 		
